@@ -5,8 +5,9 @@ img {
 
 body {
   background-color: #eee;
-  font-family: Verdana, Arial, Helvetica, sans-serif;
   color: #333;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 18px;
 }
 
 .main-title {
