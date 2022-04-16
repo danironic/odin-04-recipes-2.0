@@ -2,3 +2,14 @@ img {
   height: auto;
   width: 600px;
 }
+
+body {
+  background-color: #eee;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.main-title {
+  color: #ffef49;
+  font-family: "Brush Script MT", cursive;
+  font-size: 80px;
+}
