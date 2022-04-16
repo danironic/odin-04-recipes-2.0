@@ -31,3 +31,17 @@ body {
 .shrimp-title {
   color: #EAA794;
 }
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #111;
+}
+
+.description-title {
+  font-family: "Courier New", monospace;
+  font-size: 28px;
+}
