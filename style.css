@@ -14,3 +14,19 @@ body {
   font-family: "Brush Script MT", cursive;
   font-size: 80px;
 }
+
+.recipe {
+  font-size: 60px;
+}
+
+.tuna-title {
+  color: #EECF00;
+}
+
+.cinnamon-title {
+  color: #D2891E;
+}
+
+.shrimp-title {
+  color: #EAA794;
+}
