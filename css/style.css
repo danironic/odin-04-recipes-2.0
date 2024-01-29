@@ -52,3 +52,11 @@ a {
 #tuna-casserole {
   color: #dbcb35;
 }
+
+p,
+ol,
+ul {
+  width: 750px;
+}
+
+
