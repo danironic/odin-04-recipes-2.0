@@ -31,3 +31,11 @@ a {
   font-weight: 100;
   font-size: 18px;
 }
+
+.steps {
+  background-color: rgb(146, 150, 88);
+  color: #69f319;
+}
+
+.steps li {
+  font-family: "Georgia", "Times New Roman", serif;
