@@ -2,3 +2,9 @@
   font-size: 20px;
   font-family: "Vardana", "Tahoma", sans-serif;
 }
+
+#site-header {
+  font-size: 50px;
+  font-weight: 1000;
+  color: rgb(186, 189, 56);
+}
