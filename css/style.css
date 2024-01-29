@@ -39,3 +39,16 @@ a {
 
 .steps li {
   font-family: "Georgia", "Times New Roman", serif;
+}
+
+#burritos {
+  color: #96853d;
+}
+
+#oatmeal-cookies {
+  color: #b6a34e;
+}
+
+#tuna-casserole {
+  color: #dbcb35;
+}
