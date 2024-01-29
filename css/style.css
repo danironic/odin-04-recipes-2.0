@@ -16,3 +16,12 @@ a {
 .recipe-header {
   font-size: 45px;
 }
+
+.desc-header {
+  font-size: 35px;
+}
+
+.sub-header {
+  font-size: 30px;
+  color: rgb(240, 80, 32);
+}
